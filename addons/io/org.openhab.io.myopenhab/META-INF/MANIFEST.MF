@@ -4,7 +4,7 @@ Ignore-Package: org.openhab.io.myopenhab.internal
 Bundle-ManifestVersion: 2
 Bundle-Name: my.openHAB Service Bundle
 Bundle-SymbolicName: org.openhab.io.myopenhab
-Bundle-Version: 2.0.0.qualifier
+Bundle-Version: 2.0.0.b3
 Service-Component: OSGI-INF/myopenhab.xml
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Import-Package: javax.net,
